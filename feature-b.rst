@@ -20,9 +20,9 @@ No.    Prime
 
 Codeblocks
 """"""""""
-Här är text först
+Here is some intro text
 
-.. Här kommer ett block::
+.. here is a  block::
 
   def hello():
       print("Hello world")
