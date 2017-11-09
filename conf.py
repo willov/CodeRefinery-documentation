@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'williams test md'
-copyright = '2017, William Lövfors'
-author = 'William Lövfors'
+copyright = '2017, William Loevfors'
+author = 'William Loevfors'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -152,6 +152,3 @@ texinfo_documents = [
      author, 'williamstestmd', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
